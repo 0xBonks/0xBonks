@@ -29,7 +29,3 @@ Aktuell tief in Rust, Systems Programming und Cloud-native Java-Anwendungen unte
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xBonks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xBonks&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
-</div>
